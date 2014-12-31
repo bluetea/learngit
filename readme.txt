@@ -1,1 +1,1 @@
-my boss is still stupid
+ My boss changed mind to GIT
